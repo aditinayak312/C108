@@ -1,0 +1,29 @@
+body{
+    font-family: 'Yatra One', cursive;
+    background: darkkhaki;
+    color: darkslateblue;
+}
+.header_div{
+    background: bisque;
+    color: blue;
+    font-family: 'Yatra One', cursive;
+    position:fixed;
+    top:0;
+    width:100%;
+    letter-spacing:4px;
+}
+.footer_div{
+    position:fixed;
+    bottom:0%;
+    width:100%;
+    background-color: cadetblue;
+    color: crimson;
+    text-align:center;
+    line-height:3;
+    font-size:20px;
+    font-family: 'Yatra One', cursive;
+    text-shadow:5px 5px grey;
+}
+.main_div{
+    margin-top:100px;
+}
